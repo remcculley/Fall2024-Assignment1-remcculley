@@ -5,10 +5,11 @@
 
 div
 {
-    margin:auto
+    align-self:center
 }
 
 h1
 {
-color: orange
+color: orange;
+font-family: 'Times New Roman';
 }
